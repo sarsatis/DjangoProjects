@@ -3,7 +3,7 @@
 ## This is to create virtual env
 > python3 -m venv env
 > source env/bin/activate
-
+> deactivate (to come out of that env)
 > pip3 freeze (To check all the installed dependencies)
 
 > cmd+shift+p create virtual env and open bash to have venv specific to project
