@@ -1,6 +1,8 @@
 # Python commands
 
 ## This is to create virtual env
+
+```python
 > python3 -m venv env
 
 > source env/bin/activate
@@ -12,6 +14,8 @@
 > cmd+shift+p create virtual env and open bash to have venv specific to project
 
 > pip3 install django and check pip3 freeze
+```
+
 
 
 # Django Refresher
