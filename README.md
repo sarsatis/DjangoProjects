@@ -47,4 +47,4 @@
 
 # DjangoPriyasRestaurant
 
-![Alt text](assets/FoodOnline-Flowchart.png)
+![Alt text](foodOnline/assets/FoodOnline-Flowchart.png)
