@@ -21,12 +21,13 @@
 # Django Refresher
 
 ## Inside .venv i.e bash
+## cd into the foodOnline folder
 ## To create boiler plate django code
 
 ```python
 > django-admin startproject projectname .
 
-> e.g django-admin startproject mysite .
+> e.g django-admin startproject foodOnline_main .
 ```
 
 
